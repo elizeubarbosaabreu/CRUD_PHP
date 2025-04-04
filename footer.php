@@ -1,6 +1,6 @@
 <!-- Rodapé -->
 <footer class="bg-dark text-white text-center py-3 mt-5">
-        <p>&copy; 2025 Sistema de Cadastro de Usuários - Todos os direitos reservados.</p>
+        <p>&copy; 2025 Sistema de Cadastro de Usuários - Elizeu B. Abreu - Todos os direitos reservados.</p>
     </footer>
     
     <!-- Script do Bootstrap 5 -->
